@@ -28,7 +28,7 @@
 8. En Powershell ubiquese en directorio por defecto de .ssh y ejecute el comando ssh -i id_rsa opc@(IP de la VM)
 ![image](https://user-images.githubusercontent.com/57542602/132621513-0b6bfa8f-688f-4b9b-83e2-f0ee093b7a71.png)
 
-y listo ;) 
+y listo ;) continue instalando MYSQL Shell con el comando sudo yum install –y mysql-shell
 
 ![done-and-done-spongebob](https://user-images.githubusercontent.com/57542602/132621726-59351e0f-3930-4ba8-b170-d031da3b1c8f.gif)
 
