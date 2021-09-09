@@ -1,6 +1,6 @@
 # oracleinformation
 
-# Como ejecuto la conexión a la maquina virtual en el Task 5: Create Client Virtual Machine del Lab de Mysql ![mysql](https://user-images.githubusercontent.com/57542602/132622001-45762a22-8256-433e-8d0a-e565035bbcaa.png)
+# Como ejecuto la conexión a la maquina virtual en el Task 5: Create Client Virtual Machine del Lab de Mysql 
 **By;** Anny Ardila
 
 1. Busca PowerShell 
